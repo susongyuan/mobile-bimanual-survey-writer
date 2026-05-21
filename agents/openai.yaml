@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mobile Bimanual Survey Writer"
+  short_description: "Robotics survey reading and writing workflow"
+  default_prompt: "Use $mobile-bimanual-survey-writer to screen papers and draft a reviewer-grade mobile bimanual manipulation survey section."
